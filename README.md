@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @robenzos
+- 👀 I’m interested in Programming, all types ofc, Design (UI and Graphical), flying technology (Drones and UAVs) and Languages
+- 🌱 I’m currently learning Flutter, Unity and everything that comes my way.
+- 💞️ I’m looking to collaborate on anything visual, i am willing to help.
+- 📫 robert.samsa@guep.hr
+- Languages: Croatian, English and German
