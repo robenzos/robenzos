@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Flutter, Unity and everything that comes my way.
 - 💞️ I’m looking to collaborate on anything visual, i am willing to help.
 - 📫 robert.samsa@guep.hr
-- Languages: Croatian, English and German
+- 🗣️ Speaking 🇭🇷x🇷🇸x🇧🇦, 🇺🇸x🇬🇧, 🇩🇪x🇦🇹
